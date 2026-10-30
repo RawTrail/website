@@ -2,8 +2,9 @@
   <rect width="1200" height="630" fill="#0f1115"/>
   <rect x="0" y="0" width="14" height="630" fill="#8ab4ff"/>
   <text x="80" y="120" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#8ab4ff">RawTrail</text>
-  <text x="80" y="290" font-family="Helvetica, Arial, sans-serif" font-size="86" font-weight="800" fill="#e9eaee">3 tool calls logged.</text>
-  <text x="80" y="395" font-family="Helvetica, Arial, sans-serif" font-size="86" font-weight="800" fill="#e9eaee">109 processes ran.</text>
-  <text x="80" y="500" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#a3a8b3">See what your AI agent actually did.</text>
+  <text x="80" y="215" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="3" fill="#a3a8b3">EXAMPLE: ONE CLAUDE CODE SESSION</text>
+  <text x="80" y="305" font-family="Helvetica, Arial, sans-serif" font-size="62" font-weight="800" fill="#e9eaee">The agent reported 3 tool calls.</text>
+  <text x="80" y="395" font-family="Helvetica, Arial, sans-serif" font-size="62" font-weight="800" fill="#8ab4ff">The Mac recorded 109 processes.</text>
+  <text x="80" y="495" font-family="Helvetica, Arial, sans-serif" font-size="38" fill="#a3a8b3">See what your AI agent actually did.</text>
   <text x="80" y="570" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#a3a8b3">rawtrail.io</text>
 </svg>
