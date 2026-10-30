@@ -1,0 +1,5 @@
+Contact: https://github.com/RawTrail/RawTrail/security/advisories/new
+Expires: 2027-10-30T00:00:00.000Z
+Policy: https://github.com/RawTrail/RawTrail/blob/main/SECURITY.md
+Canonical: https://rawtrail.io/.well-known/security.txt
+Preferred-Languages: en
